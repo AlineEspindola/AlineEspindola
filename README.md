@@ -1,4 +1,5 @@
-# Sou Aline Espindola, uma desenvolvedora Full Stack dedicada a oferecer soluções inteligentes aliadas a um design atraente 🖥️🖌️
+![WhatsApp Image 2023-12-17 at 18 49 56](https://github.com/AlineEspindola/AlineEspindola/assets/117865319/7835db06-10be-4576-8ed9-4198fa30d029)
+# Sou uma desenvolvedora Full Stack dedicada a oferecer soluções inteligentes aliadas a um design atraente 🖥️🖌️
 
 ## Minhas Habilidades
 
