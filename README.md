@@ -1,6 +1,8 @@
-## Sou Aline Espindola, uma desenvolvedora Full Stack dedicada a oferecer soluções inteligentes aliadas a um design atraente 🖥️🖌️
+# Sou Aline Espindola, uma desenvolvedora Full Stack dedicada a oferecer soluções inteligentes aliadas a um design atraente 🖥️🖌️
 
-### Tecnologias que Utilizo:
+## Minhas Habilidades
+
+### Tecnologias:
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
