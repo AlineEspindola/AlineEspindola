@@ -1,6 +1,8 @@
 ![WhatsApp Image 2023-12-17 at 18 57 30](https://github.com/AlineEspindola/AlineEspindola/assets/117865319/f83b61f9-8e41-4af7-a2f9-13a4da50ca4e)
 # Sou uma desenvolvedora Full Stack dedicada a oferecer soluções inteligentes aliadas a um design atraente 🖥️🖌️
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineEspindola&hide_progress=true)
+
 ## Minhas Habilidades
 
 ### Tecnologias:
