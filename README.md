@@ -4,7 +4,14 @@
 [![Aline Espindola](https://github-readme-stats.vercel.app/api?username=AlineEspindola&theme=shadow_red&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)](https://github.com/AlineEspindola)
 
 <p align="center">
-  teste
+  <a href="https://github.com/AlineEspindola">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlineEspindola&theme=shadow_red&show_icons=true&count_private=true&include_all_commits=true&hide=contribs" alt="Aline Espindola's GitHub Stats">
+  </a>
+</p>
+
+
+<p align="center">
+  
 </p>
 
 ## Minhas Habilidades
