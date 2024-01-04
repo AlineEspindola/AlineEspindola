@@ -4,7 +4,7 @@
   
 # 🖌️🖥️ Sou um (a) desenvolvedor (a) Full Stack dedicada a oferecer soluções inteligentes aliadas a um design atraente 🖥️🖌️
 
-[![Aline Espindola](https://github-readme-stats.vercel.app/api?username=AlineEspindola&theme=shadow_red&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)](https://github.com/AlineEspindola)
+[![Aline Espindola](https://github-readme-stats.vercel.app/api?username=AlineEspindola&theme=shadow_red&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&token=${{ secrets.GH_TOKEN }})](https://github.com/AlineEspindola)
 
 ## Minhas Habilidades
 
