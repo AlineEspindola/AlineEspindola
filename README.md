@@ -1,9 +1,14 @@
 ![WhatsApp Image 2023-12-17 at 18 57 30](https://github.com/AlineEspindola/AlineEspindola/assets/117865319/f83b61f9-8e41-4af7-a2f9-13a4da50ca4e)
-<h1 align="center">🖌️🖥️ Sou um (a) desenvolvedor (a) Full Stack dedicada a oferecer soluções inteligentes aliadas a um design atraente 🖥️🖌️</h1>
+<div align="center">
+  
+# 🖌️🖥️ Sou um (a) desenvolvedor (a) Full Stack dedicada a oferecer soluções inteligentes aliadas a um design atraente 🖥️🖌️
 
-[![Aline Espindola](https://github-readme-stats.vercel.app/api?username=AlineEspindola&theme=shadow_red&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)](https://github.com/AlineEspindola)[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlineEspindola&layout=pie&theme=shadow_red&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats&locale=pt-br)
+<a href="https://github.com/AlineEspindola">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlineEspindola&theme=shadow_red&show_icons=true&count_private=true&include_all_commits=true&hide=contribs" alt="Aline Espindola com GitHub Stats">
+</a>
 
 ## Minhas Habilidades
+</div>
 
 ### Tecnologias:
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
@@ -32,11 +37,16 @@
 ### Servidores
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+<div align="center">
+  
 ---
 ### Contatos
+
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/line14)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-espindola-72034b285)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=alineabreuespindola@gmail.com)
+
+</div>
 
 
 
