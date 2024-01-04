@@ -1,7 +1,7 @@
 ![WhatsApp Image 2023-12-17 at 18 57 30](https://github.com/AlineEspindola/AlineEspindola/assets/117865319/f83b61f9-8e41-4af7-a2f9-13a4da50ca4e)
 <h1 align="center">🖌️🖥️ Sou um (a) desenvolvedor (a) Full Stack dedicada a oferecer soluções inteligentes aliadas a um design atraente 🖥️🖌️</h1>
 
-[![Aline Espindola](https://github-readme-stats.vercel.app/api?username=AlineEspindola&theme=shadow_red&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)](https://github.com/AlineEspindola)
+[![Aline Espindola](https://github-readme-stats.vercel.app/api?username=AlineEspindola&theme=shadow_red&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)](https://github.com/AlineEspindola)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?AlineEspindola=anuraghazra&hide_progress=true)
 
 ## Minhas Habilidades
 
