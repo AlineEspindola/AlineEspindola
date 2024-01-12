@@ -4,7 +4,7 @@
   
 # 🖌️🖥️ Sou um (a) desenvolvedor (a) Full Stack dedicada a oferecer soluções inteligentes aliadas a um design atraente 🖥️🖌️
 
-<img height="200vh" width="400px" src="https://github-readme-stats-liart-nine-71.vercel.app/api?username=AlineEspindola&theme=shadow_red&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&locale=pt-br">&nbsp;&nbsp;&nbsp;&nbsp;<img width="270px" height="200vh" src="https://github-readme-stats-liart-nine-71.vercel.app/api/top-langs/?username=AlineEspindola&theme=shadow_red&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&locale=pt-br&layout=compact"> 
+<img height="200vh" width="400px" src="https://github-readme-stats-liart-nine-71.vercel.app/api?username=AlineEspindola&theme=shadow_red&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&locale=pt-br">&nbsp;&nbsp;&nbsp;<img width="270px" height="200vh" src="https://github-readme-stats-liart-nine-71.vercel.app/api/top-langs/?username=AlineEspindola&theme=shadow_red&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&locale=pt-br&layout=compact"> 
  
 ## Minhas Habilidades
 
