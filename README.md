@@ -1,4 +1,4 @@
-![WhatsApp Image 2023-12-17 at 18 57 30](https://github.com/AlineEspindola/AlineEspindola/assets/117865319/f83b61f9-8e41-4af7-a2f9-13a4da50ca4e)
+![WhatsApp Image 2023-12-17 at 18 57 30](https://media.licdn.com/dms/image/v2/D4D16AQGiywCoQyuZ3Q/profile-displaybackgroundimage-shrink_350_1400/B4DZVUm6gvGcAY-/0/1740881243198?e=1746662400&v=beta&t=ScHh4qCp1QSzG8J3_kuiVvwvKgjq56VuCIZdSBYO2_M)
 
 <div align="center">
   
