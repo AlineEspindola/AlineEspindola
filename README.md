@@ -1,4 +1,4 @@
-![WhatsApp Image 2023-12-17 at 18 57 30](https://media.licdn.com/dms/image/v2/D4D16AQGiywCoQyuZ3Q/profile-displaybackgroundimage-shrink_350_1400/B4DZVUm6gvGcAY-/0/1740881243198?e=1746662400&v=beta&t=ScHh4qCp1QSzG8J3_kuiVvwvKgjq56VuCIZdSBYO2_M)
+![Banner](https://www.linkedin.com/mwlite/profile/me/add/background?trk=profile)
 
 <div align="center">
   
