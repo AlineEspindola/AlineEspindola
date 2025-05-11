@@ -1,4 +1,4 @@
-![Banner](https://www.linkedin.com/mwlite/profile/me/add/background?trk=profile)
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQGiywCoQyuZ3Q/profile-displaybackgroundimage-shrink_350_1400/B4DZVUm6gvGcAY-/0/1740881243198?e=1752710400&v=beta&t=BtANZ0QJCZ6e7haMOQRFit7G8tX0ucq3kg8kt16QmUM)
 
 <div align="center">
   
