@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQGiywCoQyuZ3Q/profile-displaybackgroundimage-shrink_350_1400/B4DZVUm6gvGcAY-/0/1740881243198?e=1752710400&v=beta&t=BtANZ0QJCZ6e7haMOQRFit7G8tX0ucq3kg8kt16QmUM)
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQGiywCoQyuZ3Q/profile-displaybackgroundimage-shrink_350_1400/B4DZVUm6gvGcAY-/0/1740881243198?e=1756339200&v=beta&t=UUoF22xUS2lYinqPn7qDnkm8JeuyC_NBR4kfqoRL6PE)
 
 <div align="center">
   
@@ -21,8 +21,10 @@
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/SEUUSERNAME)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
-### Bibliotecas
+### Bibliotecas/Frameworks
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -37,6 +39,8 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/SEUUSERNAME)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/SEUUSERNAME)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
 <div align="center">
   
